@@ -49,6 +49,7 @@
     {"id":{"name":"PlayGameCameraController","path":"objects/PlayGameCameraController/PlayGameCameraController.yy",},},
     {"id":{"name":"PlayGameController","path":"objects/PlayGameController/PlayGameController.yy",},},
     {"id":{"name":"PlayGameCountdownTextView","path":"objects/PlayGameCountdownTextView/PlayGameCountdownTextView.yy",},},
+    {"id":{"name":"PlayGameFinish","path":"objects/PlayGameFinish/PlayGameFinish.yy",},},
     {"id":{"name":"PlayGamePlayer","path":"objects/PlayGamePlayer/PlayGamePlayer.yy",},},
     {"id":{"name":"PlayGameQuestionBox","path":"objects/PlayGameQuestionBox/PlayGameQuestionBox.yy",},},
     {"id":{"name":"LobbyRoom","path":"rooms/LobbyRoom/LobbyRoom.yy",},},

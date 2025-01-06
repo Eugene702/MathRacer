@@ -27,5 +27,5 @@ if(global.countdown == 0){	/// @DnDAction : YoYo Games.Drawing.Draw_Self
 	/// @DnDArgument : "y" "room_height / 1.16"
 	/// @DnDArgument : "xscale" "4"
 	/// @DnDArgument : "yscale" "4"
-	/// @DnDArgument : "caption" "2391"
-	draw_text_transformed(display_get_width() / 4.9, room_height / 1.16, string(2391) + "", 4, 4, 0);}
+	/// @DnDArgument : "caption" "value"
+	draw_text_transformed(display_get_width() / 4.9, room_height / 1.16, string(value) + "", 4, 4, 0);}

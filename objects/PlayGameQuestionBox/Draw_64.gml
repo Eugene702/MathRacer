@@ -28,5 +28,5 @@ if(global.countdown == 0){	/// @DnDAction : YoYo Games.Drawing.Draw_Self
 	/// @DnDArgument : "y" "3"
 	/// @DnDArgument : "xscale" "5"
 	/// @DnDArgument : "yscale" "5"
-	/// @DnDArgument : "caption" "string(global.first_question_number) + global.operator + string(global.second_question_number)"
-	draw_text_transformed(display_get_gui_width() / 1.45, 3, string(string(global.first_question_number) + global.operator + string(global.second_question_number)) + "", 5, 5, 0);}
+	/// @DnDArgument : "caption" "value"
+	draw_text_transformed(display_get_gui_width() / 1.45, 3, string(value) + "", 5, 5, 0);}
